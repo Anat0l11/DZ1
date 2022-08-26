@@ -1,0 +1,15 @@
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\bin\Debug\net6.0\Z3.exe
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\bin\Debug\net6.0\Z3.deps.json
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\bin\Debug\net6.0\Z3.runtimeconfig.json
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\bin\Debug\net6.0\Z3.dll
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\bin\Debug\net6.0\Z3.pdb
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\Z3.csproj.AssemblyReference.cache
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\Z3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\Z3.AssemblyInfoInputs.cache
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\Z3.AssemblyInfo.cs
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\Z3.csproj.CoreCompileInputs.cache
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\Z3.dll
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\refint\Z3.dll
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\Z3.pdb
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\Z3.genruntimeconfig.cache
+F:\Geekbrains\ДЗ\Дз Август\C#\Дз Семинар01\Z3\obj\Debug\net6.0\ref\Z3.dll
